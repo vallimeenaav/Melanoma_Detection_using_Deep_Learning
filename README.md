@@ -1,7 +1,5 @@
 # 🩺 Melanoma Detection using Deep Learning  
-**Early & Accurate Diagnosis of Skin Cancer with CNNs & Inception Networks**  
-
-![Melanoma Detection](https://upload.wikimedia.org/wikipedia/commons/5/5f/Melanoma.jpg)  
+**Early & Accurate Diagnosis of Skin Cancer with CNNs & Inception Networks**   
 
 ## 🚀 Project Overview  
 Melanoma is the deadliest form of skin cancer, and **early detection significantly improves survival rates**.  
